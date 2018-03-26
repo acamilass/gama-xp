@@ -1,8 +1,10 @@
 {
   "pessoas": [ 
-    "id": 1, 
-    "nome": "ana",
-    "email": "teste@teste.com",
-    "empresa": "gama"
+    {
+      "id": 1, 
+      "nome": "ana",
+      "email": "teste@teste.com",
+      "empresa": "gama"
+    }
   ]
 }
