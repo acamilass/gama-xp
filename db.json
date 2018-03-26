@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "pessoas": [
     {
       "id": 1,
-      "title": "hello"
+      "nome": "teste",
+      "email": "teste@teste.com",
+      "empresa": "teste"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
